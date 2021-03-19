@@ -8,6 +8,7 @@ NOTE : while using the app please add your open weather token in WeatherServiceI
 
 Request format :
 localhost:8080/weather/{city_name}
+
 Example :
 localhost:8080/weather/pune
 
